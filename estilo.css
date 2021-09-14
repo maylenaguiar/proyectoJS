@@ -1,0 +1,27 @@
+*{
+    margin: auto 0;
+    padding: auto 0;
+}
+body{
+    color: blueviolet;
+}
+h1{
+    text-align: center;
+}
+h2{
+    text-align: center;
+    font-size: 28;
+    margin-top: 50px;
+}
+.productos{
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    color: lightcoral;
+    text-align: center;
+}
+.promo{
+text-align: center;
+margin-top: 60px;
+}
